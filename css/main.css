@@ -1,0 +1,17 @@
+@font-face {
+    font-family: poppins;
+    src: url(../fonts/Mulish/Poppins/Poppins-Bold.ttf);
+}
+@font-face {
+    font-family: mulish;
+    src: url(../fonts/Mulish/Mulish-Italic-VariableFont_wght.ttf);
+}
+body{
+    background: rgba(248, 249, 255, 1);
+}
+.container{
+    max-width: 1312px;
+    width: 100%;
+    padding: 0 16px;
+    margin: 0 auto;
+}
